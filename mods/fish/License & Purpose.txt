@@ -1,0 +1,26 @@
+===================================================================
+Copyright and License of the mod this file is in:
+===================================================================
+ Copyright (C) 2016 KGM : Kai Gerd Müller <kai_gerd_mueller@gmx.de>
+
+ This mod is part of the LOTH Minetest subgame.
+ It most likely won't run within any other subgame than LOTH.
+ It is free software. It comes without any warranty,
+ to the extent permitted by applicable law.
+ If there are any bugs, please tell me about on Minetest Forums.
+
+ License:
+ 0. you are allowed to use this mod for personal use only.
+ 1.(taken out of gnu GPL)
+ This License applies to any program or other work which contains a notice placed by the copyright
+ holder saying it may be distributed under the terms of this General Public License. The
+ "Program", below, refers to any such program or work, and a "work based on the Program" means
+ either the Program or any derivative work under copyright law: that is to say, a work containing
+ the Program or a portion of it, either verbatim or with modifications and/or translated into
+ another language. (Hereinafter, translation is included without limitation in the term
+ "modification".) Each licensee is addressed as "you".
+ 2.
+ you are allowed to create derivative works for personal use only.
+ 3.
+ You are not allowed to distribute any copy or work based on this programm unless the copyright
+ holder declares his consent.

@@ -1,0 +1,38 @@
+LOTH [LOTH]
+=============================
+A LOTR (Lord Of The Rings) themed subgame based on the main subgame for the Minetest engine
+========================================
+
+To use this subgame with the Minetest engine, insert this repository as
+	/games/minetest_game
+
+The Minetest engine can be found in:
+	https://github.com/minetest/minetest/
+
+Compatibility
+--------------
+should be compatible with Minetest 0.4.14,
+for other versions compatability is unknown
+License of source code
+----------------------
+Copyright (C)2017 KGM, Kai Gerd Müller <kai_gerd_mueller@gmx.de> (LOTH stuff);
+Copyright (C)2010-2012 celeron55, Perttu Ahola <celeron55@gmail.com> (minetest game stuff)
+See README.txt/License & Purpose.txt in each mod directory for information about other authors and Licenses.
+
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+License of media (textures and sounds)
+--------------------------------------
+Copyright (C)2017 KGM, Kai Gerd Müller <kai_gerd_mueller@gmx.de> (LOTH stuff)
+Copyright (C)2010-2012 celeron55, Perttu Ahola <celeron55@gmail.com> (minetest game stuff)
+See README.txt/License & Purpose.txt in each mod directory for information about other authors.
+
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+http://creativecommons.org/licenses/by-sa/3.0/
+
+License of menu/header.png
+Copyright (C) 2015 paramat CC BY-SA 3.0
