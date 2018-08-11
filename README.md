@@ -1,4 +1,4 @@
-HOW TO PLAY
+HOW TO PLAY</br>
 
 -> build a house and go mining.
 
