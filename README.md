@@ -1,16 +1,20 @@
-**LOTH-1.5**</br>
- </br>
-**HOW TO INSTALL**</br>
+<!DOCTYPE html>
+<html>
+<head>
+<title>LOTH : a Lord of the Rings themed Minetest subgame</title>
+</head>
+<body>
+  <h1>LOTH : a Lord of the Rings themed Minetest subgame</h1>
+  <img src="https://github.com/LOTH-Game/loth-game.github.io/blob/master/loth-1.5-screenie.png?raw=true"></img>
+  <h1>HOW TO INSTALL</h1>
+  </br>
+  1. Install <a href="https://www.minetest.net/">Minetest</a>.</br>
 </br>
-1. Install Minetest.</br>
+  2. Use one of the provided installers (<a href="https://github.com/LOTH-Game/LOTH-installers">Linux</a>) or simply download <a href="https://github.com/KaiGerdMueller/LOTH-1.5/archive/master.zip">Loth</a> as zip, extract it, and paste it in the games directory of your minetest. (see <a href=https://wiki.minetest.net/Games#Using_a_game>minetest wiki : installing a game</a> for help)</br>
 </br>
-2. Use one of the provided installers (https://github.com/LOTH-Game/LOTH-installers : Linux) or simply download (https://github.com/KaiGerdMueller/LOTH-1.5/archive/master.zip(LOTH) : LOTH) as zip, extract it, and paste it in the games directory of your minetest. (see minetest wiki : installing a game for help)
-</br>
-</br>
-</br>
-**HOW TO PLAY** </br>
-</br>
--> build a house and go mining.</br>
+<h1>HOW TO PLAY</h1>
+<p>
+  -> build a house and go mining.</br>
 </br>
 -> when you have enough gold and diamond, use them to trade with npcs.</br>
 +-> right click with gold ingot : you obtain a key and the allowance to open ten chests in houses of the union of the one who you paid for. (unions are : orcs and human, dwarfs, elfs, hobbits)</br>
@@ -42,52 +46,35 @@
 -> you are now the only one who can use grond without taking damage.</br>
 </br>
 -> you can spawn melkor again if you're out for a challenge or want some monster for guarding your treasures.</br>
+  </p>
+<h1>MORE INFORMATION</h1>
 </br>
+<a href="https://lothminetest.wikia.com/wiki/LOTH_Wiki">Wiki (please help!)</a></br>
+<a href="https://wiki.minetest.net/Games/LOTH">Minetest wiki entry (please help!)</a></br>
 </br>
+<h1>LEGAL STUFF</h1>
+<p>
+THE FOLLOWING TEXT IS NOT PART OF THE LICENSE AGREEMENT! (it should give you an idea of how my license works, but it is NOT PART OF THE LICENSE AGREEMENT.)</br> 
+  </br>
+  you are allowed to create derivative works. you are allowed to use LOTH and any derivatives for personal use only. you are not allowed to distribute LOTH or derivatives.</br>
 </br>
-**LEGAL STUFF**</br>
+<h1>SERVER HOSTING</h1>
 </br>
-THE FOLLOWING TEXT IS NOT PART OF THE LICENSE AGREEMENT!</br>
-(it should give you an idea of how my license works, but it is NOT PART OF THE LICENSE AGREEMENT.)</br>
-you are allowed to create derivative works.</br>
-you are allowed to use LOTH and any derivatives for personal use only.</br>
-you are not allowed to distribute LOTH or derivatives.</br>
-</br>
-</br>
-</br>
-**SERVER HOSTING**</br>
-</br>
-because of legal concerns, the license does not allow you to host a server.</br>
-anyway, loth is designed to work on servers, too.</br>
-If you want to host a server, just ask me and i will most likely allow you to do so.</br>
-</br>
-</br>
-</br>
-**CREDITS GO TO**</br>
-</br>
+because of legal concerns, the license does not allow you to host a server. anyway, loth is designed to work on servers, too.</br> If you want to host a server, just ask me and i will most likely allow you to do so.
+  </p>
+<h1>CREDITS GO TO</h1>
+<p>
 the NPX team for NSSM : your really not so simple mobs are soooooooooooo many! and they are great for any medieval themed subgame!</br>
 </br>
-doomed (and TenPlus1, blert2112, and taikedz) for DMOBS : your mobs have great models and don't use any high level mob engine features so they where the first mobs i included in my subgame.</br>
-i made my own mob engines, all mobs use my mob engines </br>
-(because rewriting other mob engines to fit into my games systems would be O.O), </br>
-but adapting my mob engine to dmobs was far more easy than adapting it to nssm! ;-)</br>
-(and of course the dmobs are great for medieval themed subgames, too!)</br>
+doomed (and TenPlus1, blert2112, and taikedz) for DMOBS : your mobs have great models and don't use any high level mob engine features so they where the first mobs i included in my subgame. i made my own mob engines, all mobs use my mob engines (because rewriting other mob engines to fit into my games systems would be O.O), but adapting my mob engine to dmobs was far more easy than adapting it to nssm! ;-) (and of course the dmobs are great for medieval themed subgames, too!)</br>
 </br>
 the minetest-game developers : a great basic subgame on top of wich one can build anything!!!</br>
 </br>
-the worldedit team : </br>
-cheapie</br>
-cornernote</br>
-cyisfor</br>
-electricface</br>
-kaeza</br>
-khonkhortisan</br>
-sfan5</br>
-ShadowNinja</br>
-spillz</br>
-Uberi/Temperest</br>
-your tool is great for creating buildings quickly and saving schematics! aldough it is not installed in the subgame, it helped me a lot when i started creating trees and buildings!</br>
+the worldedit team : cheapie, cornernote, cyisfor, electricface, kaeza, khonkhortisan, sfan5, ShadowNinja, spillz, Uberi/Temperest. Your tool is great for creating buildings quickly and saving schematics! Aldough it is not installed in the subgame, it helped me a lot when i started creating trees and buildings!</br>
 </br>
 the ones who made the lott textures : these are simply great!</br>
 </br>
 see the readme/License & Purpose.txt files in each mod for more information.</br>
+  </p>
+</body>
+</html>
