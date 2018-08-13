@@ -20,7 +20,7 @@
 </br>
 -> fight trolls with your army to obtain epic weapons.</br>
 </br>
--> fight bosses with your army. do the final hit yourself, else the kill will not be counted as yours.</br>
+-> fight bosses with your army. do the final hit yourself, with a meele weapon, else the kill will not be counted as yours.</br>
 </br>
 -> when you killed every boss type at least once, sauron willappear and try to kill you. if you don't manage to kill him he will hunt you like this all the time.</br>
 </br>
