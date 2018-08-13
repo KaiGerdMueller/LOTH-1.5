@@ -1,7 +1,5 @@
  ## LOTH-1.5</br>
  </br>
- </br>
- </br>
 **HOW TO INSTALL**</br>
 </br>
 1. Install Minetest.</br>
