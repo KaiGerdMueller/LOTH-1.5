@@ -4,7 +4,7 @@
 </br>
 1. Install Minetest.</br>
 </br>
-2. Use one of the provided installers (https://github.com/LOTH-Game/LOTH-installers : Linux) or simply download (https://github.com/KaiGerdMueller/LOTH-1.5/archive/master.zip : LOTH) as zip, extract it, and paste it in the games directory of your minetest. (see minetest wiki : installing a game for help)
+2. Use one of the provided installers (https://github.com/LOTH-Game/LOTH-installers : Linux) or simply download ([https://github.com/KaiGerdMueller/LOTH-1.5/archive/master.zip LOTH] : LOTH) as zip, extract it, and paste it in the games directory of your minetest. (see minetest wiki : installing a game for help)
 </br>
 </br>
 </br>
