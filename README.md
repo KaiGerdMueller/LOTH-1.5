@@ -59,6 +59,11 @@ THE FOLLOWING TEXT IS NOT PART OF THE LICENSE AGREEMENT! (it should give you an 
 </br>
 because of legal concerns, the license does not allow you to host a server. anyway, loth is designed to work on servers, too.</br> If you want to host a server, just ask me and i will most likely allow you to do so.
   </p>
+  <h1>LOTH Game Organisation</h1>
+<p>
+There is the LOTH-Game organisation on github.
+It's purpose is to create suitable new licenses for the next loth version, maintain the websites, program installers, and (maybe in the future) maintain a minetest fork just for loth. Currently this organisation has only very few members. If you want to join in, just send an email @ kai_gerd_mueller@gmx.de . 
+<p>
 <h1>CREDITS GO TO</h1>
 <p>
 the NPX team for NSSM : your really not so simple mobs are soooooooooooo many! and they are great for any medieval themed subgame!</br>
