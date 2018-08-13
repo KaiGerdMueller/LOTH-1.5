@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>LOTH : a Lord of the Rings themed Minetest subgame</title>
-</head>
 <body>
   <h1>LOTH : a Lord of the Rings themed Minetest subgame</h1>
   <img src="https://github.com/LOTH-Game/loth-game.github.io/blob/master/loth-1.5-screenie.png?raw=true"></img>
