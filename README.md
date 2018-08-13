@@ -1,4 +1,4 @@
-## HOW TO PLAY ##</br>
+**HOW TO PLAY** </br>
 </br>
 -> build a house and go mining.</br>
 </br>
@@ -35,7 +35,7 @@
 </br>
 </br>
 </br>
-## LEGAL STUFF ##</br>
+**LEGAL STUFF**</br>
 </br>
 THE FOLLOWING TEXT IS NOT PART OF THE LICENSE AGREEMENT!</br>
 (it should give you an idea of how my license works, but it is NOT PART OF THE LICENSE AGREEMENT.)</br>
@@ -45,7 +45,7 @@ you are not allowed to distribute LOTH or derivatives.</br>
 </br>
 </br>
 </br>
-## SERVER HOSTING ##</br>
+**SERVER HOSTING**</br>
 </br>
 because of legal concerns, the license does not allow you to host a server.</br>
 anyway, loth is designed to work on servers, too.</br>
@@ -53,7 +53,7 @@ If you want to host a server, just ask me and i will most likely allow you to do
 </br>
 </br>
 </br>
-## CREDITS GO TO ##</br>
+**CREDITS GO TO**</br>
 </br>
 the NPX team for NSSM : your really not so simple mobs are soooooooooooo many! and they are great for any medieval themed subgame!</br>
 </br>
