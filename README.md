@@ -1,3 +1,5 @@
+ ## LOTH-1.5 ##
+
 **HOW TO PLAY** </br>
 </br>
 -> build a house and go mining.</br>
