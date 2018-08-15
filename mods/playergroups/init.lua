@@ -369,7 +369,6 @@ minetest.register_chatcommand("change_race_to_evil_race", {
 			if (text == "orc") or (text == "dunlending") then
 				players_who_can_change_race[name] = nil
 				local healthvals = ({["orc"]=1,["dunlending"]=2})[text]
-				minetest.chat_send_all(healthvals)
 				update_group_data_file(name,healthvals)
 				local player = minetest.get_player_by_name(name)
 				default.player_set_model(player, "final_player_character.b3d",player_group_sizes[healthvals] or {x=1,y=1})
@@ -391,7 +390,6 @@ hudwelshplayers[name] = true
 end --end,name)
 		local group_name = group_num_to_group_name[healthvals]
 				default.player_set_textures(player, {"doors_blank.png","doors_blank.png",player_group_textures[healthvals]})
-						minetest.chat_send_all(player_group_textures[healthvals])
 		local agility = rac_agility[group_name] or 1
 		player:set_physics_override({
 speed = agility,
