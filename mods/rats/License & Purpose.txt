@@ -5,7 +5,7 @@ Copyright and License of the mod this file is in:
 
  This mod is part of the LOTH Minetest subgame.
  It most likely won't run within any other subgame than LOTH.
- It is free software. It comes without any warranty,
+ It comes without any warranty,
  to the extent permitted by applicable law.
  If there are any bugs, please tell me about on Minetest Forums.
 
