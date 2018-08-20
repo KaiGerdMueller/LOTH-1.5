@@ -1,5 +1,5 @@
 license of code (these ~ 3 lines) : lgpl
-Authors of media files if existent in this mod and not on renamed media files list (some files where edited by me, but this is not listed here)
+Authors of media files if existent in this mod and not on renamed media files list (some files where edited by KGM, but this is not listed here)
 -----------------------
 AspireMint (CC BY-SA 3.0)
 	ent_model.x
