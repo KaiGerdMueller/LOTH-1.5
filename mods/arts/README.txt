@@ -154,4 +154,4 @@ lottmobs_uruk_hai_0.png : fishyWET (CC BY-SA 3.0)
 lottmobs_uruk_hai_1.png : fishyWET (CC BY-SA 3.0)
 lottmobs_uruk_hai_armored_0.png : fishyWET (CC BY-SA 3.0)
 lottmobs_uruk_hai_armored_1.png : fishyWET (CC BY-SA 3.0)
-? means that the lisense files i got with the stuff don't contain the authors name so I don't know it.
+? means that the lisense files one got with the stuff don't contain the authors name so one don't know it.
