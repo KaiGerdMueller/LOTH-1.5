@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+<head>
+</head>
 <body>
   <h1>LOTH : a Lord of the Rings themed Minetest subgame</h1>
   <img src="https://github.com/LOTH-Game/loth-game.github.io/blob/master/loth-1.5-screenie.png?raw=true"></img>
@@ -7,11 +9,13 @@
   </br>
   1. Install <a href="https://www.minetest.net/">Minetest</a>.</br>
 </br>
-  2. Use one of the provided installers (<a href="https://github.com/LOTH-Game/LOTH-installers">Linux</a>) or simply download <a href="https://github.com/KaiGerdMueller/LOTH-1.5/archive/master.zip">Loth</a> as zip, extract it, and paste it in the games directory of your minetest. (see <a href=https://wiki.minetest.net/Games#Using_a_game>minetest wiki : installing a game</a> for help)</br>
+  2. Use one of the provided installers (<a href="https://github.com/LOTH-Game/LOTH-Installers/raw/master/LOTH-1.5-installer.jar">Linux Jar</a>,<a href="https://github.com/LOTH-Game/LOTH-Installers/archive/master.zip">Linux all (Shellscript+Jar)</a>) or simply download <a href="https://github.com/KaiGerdMueller/LOTH-1.5/archive/master.zip">Loth</a> as zip, extract it, and paste it in the games directory of your minetest. (see <a href=https://wiki.minetest.net/Games#Using_a_game>minetest wiki : installing a game</a> for help)</br>
 </br>
 <h1>HOW TO PLAY</h1>
 <p>
   -> build a house and go mining.</br>
+</br>
+  -> eat balanced and drink enough (out of bucket) . if you have deficiencies (vitamin, water, fat, energy, protein, mineral), you die from hunger.</br>
 </br>
 -> when you have enough gold and diamond, use them to trade with npcs.</br>
 +-> right click with gold ingot : you obtain a key and the allowance to open ten chests in houses of the union of the one who you paid for. (unions are : orcs and human, dwarfs, elfs, hobbits)</br>
@@ -24,13 +28,13 @@
 </br>
 -> when you killed every boss type at least once, sauron willappear and try to kill you. if you don't manage to kill him he will hunt you like this all the time.</br>
 </br>
--> you find many bosses in the nether, craft a netherporter to go there.</br>
+-> you find many bosses in the nether, craft a netherporter (looks like dark red crystalline stave) to go there. use teleportarrows to manage the rough terrain. you can't dig there, it's protected by strong magic (like ulmo,unlike underworld)</br>
 </br>
 -> when you killed him (and only a player who killed (nearly) all other bosses can kill him, by chanche, with anything), he will drop the ring. don't die with the ring in inventory, or you loose it and sauron comes again ( like before ).</br>
 </br>
--> craft an ulmo porter, teleport into ulmo, and drop the ring into the volcano in the center of ulmo.</br>
+-> craft an ulmo porter (looks a bit like netherporter, but different), teleport into ulmo, and drop the ring into the volcano in the center of ulmo. (at (x=0|z=0))</br>
 </br>
--> craft a raw magic wand, enchant it and make it an underworldporter. deal enough damage to underworld creatures to be allowed to use the melkor stave.</br>
+-> craft a raw magic wand (is a crooked stick), enchant it and make it an underworldporter. deal enough damage to underworld creatures to be allowed to use the melkor stave.</br>
 </br>
 -> enchant a stave creating a melkor stave.</br>
 </br>
@@ -44,6 +48,9 @@
 </br>
 -> you can spawn melkor again if you're out for a challenge or want some monster for guarding your treasures.</br>
   </p>
+<h1>DISCORD</h1>
+there is a discoord channel where you can discuss the LOTH Game.
+<a href="https://discord.gg/4gseBZQ">LOTH Discord channel invitation</a></br>
 <h1>MORE INFORMATION</h1>
 </br>
 <a href="https://lothminetest.wikia.com/wiki/LOTH_Wiki">Wiki (please help!)</a></br>
@@ -57,15 +64,14 @@ THE FOLLOWING TEXT IS NOT PART OF THE LICENSE AGREEMENT! (it should give you an 
 </br>
 <h1>SERVER HOSTING</h1>
 </br>
-because of legal concerns, the license does not allow you to host a server. anyway, loth is designed to work on servers, too.</br> If you want to host a server, just ask me and i will most likely allow you to do so.
+because of legal concerns, the license does not allow you to host a server. anyway, loth is designed to work on servers, too.</br> If you want to host a server, just ask me (per email @kai_gerd_mueller@gmx.de) and i will allow you to do so until 2020.
   </p>
-  <h1>LOTH Game Organisation</h1>
+<h1>LOTH Game Organisation</h1>
 <p>
 There is the LOTH-Game organisation on github.
 It's purpose is to create suitable new licenses for the next loth version, maintain the websites, program installers, and (maybe in the future) maintain a minetest fork just for loth. Currently this organisation has only very few members. If you want to join in, just send an email @ kai_gerd_mueller@gmx.de . 
 <p>
-<h1>CREDITS GO TO</h1>
-<p>
+  <h1>CREDITS GO TO</h1>
 the NPX team for NSSM : your really not so simple mobs are soooooooooooo many! and they are great for any medieval themed subgame!</br>
 </br>
 doomed (and TenPlus1, blert2112, and taikedz) for DMOBS : your mobs have great models and don't use any high level mob engine features so they where the first mobs i included in my subgame. i made my own mob engines, all mobs use my mob engines (because rewriting other mob engines to fit into my games systems would be O.O), but adapting my mob engine to dmobs was far more easy than adapting it to nssm! ;-) (and of course the dmobs are great for medieval themed subgames, too!)</br>
