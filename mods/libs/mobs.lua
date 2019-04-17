@@ -683,6 +683,7 @@ local function mob_drop_item(pos,def)
 	end
 end
 function mobs:drop(pos,t)
+	if type(t)~= "table" then return end
 	for i,e in pairs(t) do
 		mob_drop_item(pos,e)
 	end
